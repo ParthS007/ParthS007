@@ -14,3 +14,5 @@ You can sponsor my work through [GitHub sponsors.](https://github.com/sponsors/P
 Thanks for being here, you're awesome 🙌
 
 [![Vistors](http://hits.dwyl.com/ParthS007/ParthS007.svg)](http://hits.dwyl.com/ParthS007/ParthS007)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParthS007&count_bg=%2379C83D&title_bg=%232C12CF&icon=awesomelists.svg&icon_color=%23FFF610&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
