@@ -5,9 +5,7 @@ I am a software engineer and entrepreneur. Presently, I am pursuing a Master's i
 ## Find me around the web 🌎:
 
 - Learning in public and writing a seasonal newsletter to share what I learn @ [parthshandilya.com](https://www.parthshandilya.com/blog/)
-- Sharing Updates and Interacting with community on [LinkedIn](https://www.linkedin.com/in/parths007/)
+- Sharing Updates and Interacting with community on [LinkedIn](https://www.linkedin.com/in/parths007)
 - Helping on [StackOverflow](https://stackoverflow.com/users/7994074/parths007?tab=profile)
 
-You can sponsor my work through [GitHub sponsors.](https://github.com/sponsors/ParthS007)
-
-Thanks for being here, you're awesome 🙌
+Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/parths007) to schedule a quick chat. Thanks for being here, you're awesome 🙌
