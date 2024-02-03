@@ -1,6 +1,6 @@
 # Hi, I'm Parth 👋 
 
-I am a software engineer and aspiring entrepreneur. Presently, I am pursuing MS in [Computer Science at the University of Basel](https://dmi.unibas.ch/en/), where I am actively engaged in the exploration of Distributed Systems, a subject that has captivated my interest for an extended period.
+I am a software engineer and entrepreneur. Presently, I am pursuing a Master's in [Computer Science](https://dmi.unibas.ch/de/studium/computer-science-informatik/master) at the [University of Basel, Switzerland](https://www.unibas.ch/en/University/About-University.html) focusing on Distributed Systems. My journey is fueled by a deep desire to contribute meaningfully to society through technology and innovation. With a foundation of 4 years at [CERN](https://home.cern) and [internships](https://www.parthshandilya.com/resume#internships) in diverse industries, I've developed a strong skill set in software engineering, which I'm now expanding through advanced studies and filling the knowledge gaps.
 
 ## Find me around the web 🌎:
 
