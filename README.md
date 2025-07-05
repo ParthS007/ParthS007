@@ -1,6 +1,6 @@
 # Hey, I'm Parth 👋
 
-I'm an AI Engineer building systems that turn messy data into real-world impact — with ownership, clarity, and a collaborative spirit.
+I'm an AI Engineer building systems that turn messy data into real-world impact, with ownership, clarity, and a collaborative spirit.
 
 - Currently AI/ML Engineer @ [Kadoa](https://kadoa.com) — working on unstructured data extraction.
 - Research @ [VLG Group, ETH Zurich](https://vlg.inf.ethz.ch) - exploring capabilities & limitations of LLMs and VLMs in understanding time series data.
