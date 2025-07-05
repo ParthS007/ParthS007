@@ -1,10 +1,12 @@
-# Hi, I'm Parth 👋 
+# Hey, I'm Parth 👋
 
-I am a machine learning engineer. Presently, I am working on [Kadoa](https://www.kadoa.com/) and pursuing a Master's in [Computer Science](https://dmi.unibas.ch/de/studium/computer-science-informatik/master) at the [University of Basel, Switzerland](https://www.unibas.ch/en/University/About-University.html) focusing on Distributed Systems and Machine Intelligence. My journey is driven by a deep desire to contribute meaningfully to society through technology and innovation. With a foundation of over 4 years at [CERN](https://home.cern) and [internships](https://www.parthshandilya.com/resume#internships) in diverse industries, I've developed a strong skill set in software engineering, which I'm now expanding through advanced studies and understanding the complex software systems.
-## Find me around the web 🌎:
+I'm an AI Engineer building systems that turn messy data into real-world impact — with ownership, clarity, and a collaborative spirit.
 
-- Learning in public and writing a seasonal newsletter to share what I learn @ [parthshandilya.com](https://www.parthshandilya.com/blog/)
-- Sharing Updates and Interacting with community on [LinkedIn](https://www.linkedin.com/in/parths007)
-- Helping on [StackOverflow](https://stackoverflow.com/users/7994074/parths007?tab=profile)
+- 🧠 Currently AI/ML @ [Kadoa](https://kadoa.com) — working on unstructured data extraction.
+- 🎓 Research @ [Computer Vision and Learning Group](https://vlg.inf.ethz.ch) - exploring how large language and vision models can make sense of time series data for real-world use.
+- 🎓 MSc Computer Science @ [ETH Zurich](https://inf.ethz.ch) | [University of Basel](https://www.unibas.ch/en/University/About-University.html) - Focus: Machine Intelligence & Distributed Systems
+- 🛠️ 4+ years of full-time experience in software and data engineering.
+- 🔬 Learning in public | Writing occasionally
+- 🌱 Always exploring new ideas, from privacy-preserving ML to distributed infrastructure.
 
-Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/parths007) to schedule a quick chat. Thanks for being here, you're awesome 🙌
+> I care about building things that last and learning along the way.
