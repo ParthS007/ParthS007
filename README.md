@@ -10,3 +10,5 @@ I'm an AI Engineer building systems that turn messy data into real-world impact,
 - Always exploring new ideas, from privacy-preserving ML to distributed infrastructure.
 
 > I care about building things that last and learning along the way.
+
+If you’re building something around AI/ML or data systems and want to chat, feel free to reach out!
